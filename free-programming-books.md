@@ -1234,6 +1234,7 @@
 * [Dive Into HTML5](http://diveintohtml5.info) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
 * [GA Dash](https://dash.generalassemb.ly)
 * [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+* [Head First HTML5 Programming]([PDF]https://drive.google.com/open?id=0B2kn0fOTOjLqZC1abkdnN25GVm8) - Eric Freeman & Elisabeth Robson
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com)
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com)
